@@ -37,7 +37,7 @@ A comprehensive collection of useful system utility scripts for both **Windows**
 ### Network Tools
 - **Network Information** - Display network configuration and connections
 - **Port Scanner** - Check port usage and find processes (Windows)
-- **WiFi Manager** - Manage WiFi connections and profiles (Windows)
+- **WiFi Manager** - Manage WiFi connections and profiles (Windows & Mac)
 
 ### File Management
 - **Folder Organizer** - Auto-organize files by extension
@@ -61,7 +61,7 @@ A comprehensive collection of useful system utility scripts for both **Windows**
 ### Windows (18 scripts)
 See [windows/README.md](windows/README.md) for detailed list
 
-### Mac (9 scripts)
+### Mac (10 scripts)
 See [mac/README.md](mac/README.md) for detailed list
 
 ##  Important Notes

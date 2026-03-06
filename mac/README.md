@@ -71,6 +71,14 @@ chmod +x *.sh
 - Continuous monitoring mode
 - System performance overview
 
+### 10. **wifi_manager.sh**
+- Manage WiFi connections and networks
+- View available and saved WiFi networks
+- Connect/disconnect from networks
+- Show WiFi passwords from Keychain
+- Turn WiFi on/off
+- Forget saved networks
+
 ## Usage Examples
 
 ### System Information
