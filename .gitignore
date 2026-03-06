@@ -1,0 +1,30 @@
+# Exclude OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Exclude backup files
+*.bak
+*.backup
+*~
+
+# Exclude log files
+*.log
+
+# Exclude temporary files
+*.tmp
+*.temp
+
+# Exclude editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exclude test outputs
+test_output/
+temp/
+
+# Keep the scripts
+!*.bat
+!*.sh
