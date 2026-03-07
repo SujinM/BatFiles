@@ -79,9 +79,17 @@ chmod +x *.sh
 - Turn WiFi on/off
 - Forget saved networks
 
+### 11. **port_scanner.sh**
+- Show all listening TCP ports with process names
+- Check if a specific port is in use (TCP & UDP)
+- View all open ports grouped by process
+- Find which process is using a given port
+- Show status of common ports (HTTP, SSH, MySQL, PostgreSQL, Redis, MongoDB, etc.)
+- Scan a custom port range on any host using `nc`
+
 ### Development Tools
 
-#### 11. **env_manager.sh**
+#### 12. **env_manager.sh**
 - View and manage environment variables
 - Show all, shell, and exported variables
 - Display PATH variable in formatted, numbered list
