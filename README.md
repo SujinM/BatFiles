@@ -61,7 +61,7 @@ A comprehensive collection of useful system utility scripts for both **Windows**
 ### Windows (18 scripts)
 See [windows/README.md](windows/README.md) for detailed list
 
-### Mac (10 scripts)
+### Mac (12 scripts)
 See [mac/README.md](mac/README.md) for detailed list
 
 ##  Important Notes
