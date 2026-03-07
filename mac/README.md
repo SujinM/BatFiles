@@ -79,6 +79,16 @@ chmod +x *.sh
 - Turn WiFi on/off
 - Forget saved networks
 
+### Development Tools
+
+#### 11. **env_manager.sh**
+- View and manage environment variables
+- Show all, shell, and exported variables
+- Display PATH variable in formatted, numbered list
+- Export variables to file on Desktop
+- Search variables by name
+- Show common macOS system variables (HOME, USER, SHELL, JAVA_HOME, etc.)
+
 ## Usage Examples
 
 ### System Information
