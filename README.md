@@ -1,15 +1,16 @@
 # System Utilities Scripts Collection
 
-A comprehensive collection of useful system utility scripts for both **Windows** (batch files) and **Mac/Linux** (shell scripts). These scripts help with system administration, performance monitoring, file management, network diagnostics, and more.
+A comprehensive collection of useful system utility scripts for **Windows** (batch files), **Mac** (shell scripts), and **Linux** (shell scripts). These scripts help with system administration, performance monitoring, file management, network diagnostics, and more.
 
-![Platforms](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue)
+![Platforms](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Project Structure
 
 ```
 ├── windows/          # Windows batch files (.bat)
-├── mac/             # Mac/Linux shell scripts (.sh)
+├── mac/             # Mac shell scripts (.sh)
+├── linux/           # Linux shell scripts (.sh)
 └── README.md        # This file
 ```
 
@@ -20,8 +21,14 @@ A comprehensive collection of useful system utility scripts for both **Windows**
 2. Double-click any `.bat` file to run it
 3. Some scripts require **Administrator privileges**
 
-### Mac/Linux
+### Mac
 1. Navigate to the `mac` folder
+2. Make scripts executable: `chmod +x *.sh`
+3. Run any script: `./script_name.sh`
+4. Some scripts require **sudo privileges**
+
+### Linux
+1. Navigate to the `linux` folder
 2. Make scripts executable: `chmod +x *.sh`
 3. Run any script: `./script_name.sh`
 4. Some scripts require **sudo privileges**
@@ -64,6 +71,9 @@ See [windows/README.md](windows/README.md) for detailed list
 ### Mac (12 scripts)
 See [mac/README.md](mac/README.md) for detailed list
 
+### Linux (2 scripts)
+See [linux/README.md](linux/README.md) for detailed list
+
 ##  Important Notes
 
 - **Backup your data** before running cleanup scripts
@@ -95,6 +105,7 @@ MIT License - Free to use and modify for personal and commercial purposes.
 
 - [Windows Scripts Documentation](windows/README.md)
 - [Mac Scripts Documentation](mac/README.md)
+- [Linux Scripts Documentation](linux/README.md)
 
 ##  Tips
 
